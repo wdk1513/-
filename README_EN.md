@@ -67,7 +67,6 @@ The scheme as a set of multi-function background frame templates, suitable for m
 
 ### vue-schart
 
-Vue.js wrapper for sChart.js. Github : [vue-schart](https://github.com/linxin/vue-schart)
 
 ```html
 <template>

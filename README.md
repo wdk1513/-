@@ -36,9 +36,8 @@
 
 ## 赞赏
 
-请作者喝杯咖啡吧！(微信号：linxin_20)
+请作者喝杯咖啡吧!
 
-![微信扫一扫](https://lin-xin.gitee.io/images/weixin.jpg)
 
 ## 前言
 
